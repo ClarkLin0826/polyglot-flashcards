@@ -1,0 +1,5 @@
+{
+  "name": "Polyglot Flashcards",
+  "description": "A web app for memorizing Japanese Hiragana/Katakana and Korean Hangul.",
+  "requestFramePermissions": []
+}
